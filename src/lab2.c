@@ -28,7 +28,6 @@ int main(void)
   }
 }
 
-
 //// FUNCTIONS ////
 
 void cars_pass(){
